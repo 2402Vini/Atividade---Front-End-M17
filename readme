@@ -1,0 +1,24 @@
+# 🛍️ Catálogo de Produtos - React
+
+Projeto desenvolvido com React + Vite para exibir e cadastrar produtos.
+
+## 🚀 Funcionalidades
+
+- Listagem dinâmica de produtos
+- Componente reutilizável (ProdutoCard)
+- Formulário controlado
+- Simulação de API com useEffect
+- Estado global com useState
+
+## 🛠️ Tecnologias
+
+- React
+- Vite
+- JavaScript
+- CSS
+
+## ▶️ Como rodar
+
+```bash
+npm install
+npm run dev
